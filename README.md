@@ -1,5 +1,5 @@
 # Ecoleta
-Aplicação desenvolvida durante a Next Level Week (NLW), evento organizado pela Rocketseat, com muito conteúdo e prática.
+Aplicação desenvolvida durante a Next Level Week (NLW), evento organizado pela Rocketseat.
 
 ![Tela inicial](https://github.com/SantiVinius/NLW-Ecoleta/blob/master/public/Home.png)
 
